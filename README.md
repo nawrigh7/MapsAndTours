@@ -6,6 +6,7 @@ To see the functionality of this code, download the .jar file located in the [re
 Make sure you have Java 11 or higher installed, then run:
 
 ```java -jar server-1.0.0-jar-with-dependencies.jar```
+
 Note: The default port is set to 8088, so when visiting localhost without specifying a port, you would follow https://localhost:8088/
 
 Optionally, you can specify a port to run this on as such:
